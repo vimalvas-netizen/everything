@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "d0539c770e5af951",
+        "id": "88be46d657c4875b",
         "type": "leaf",
         "state": {
           "type": "empty",
@@ -112,14 +112,32 @@
               "type": "outline",
               "state": {}
             }
+          },
+          {
+            "id": "6f62f1358abff3a9",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
     "width": 300,
     "collapsed": true
   },
-  "active": "d0539c770e5af951",
-  "lastOpenFiles": []
+  "active": "88be46d657c4875b",
+  "lastOpenFiles": [
+    "annoted_docs/Untitled.md",
+    "logs/10-06.md",
+    "other_documents/ktd_docker_deployment_apig.md",
+    "MongoDB - Part of learnings/Index.md",
+    "MongoDB - Part of learnings/Basics.md",
+    "logs/10-03.md",
+    "_templates/daily_item.md",
+    "README.md"
+  ]
 }
