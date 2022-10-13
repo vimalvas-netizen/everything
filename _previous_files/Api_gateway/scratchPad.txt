@@ -1,0 +1,20 @@
+-- Make User 
+
+Vimal Owner 1 
+---
+Creds :
+    "mobile" : "r/1KGMAK9D9VVvLFZIlNkw=="
+    "new_password" : "BIhhdz2KCnfGkldoHu+deQ=="
+
+
+
+
+Vimal Owner 2 
+Vimal Developer 1
+Vimal Developer 2
+Vimal Developer 3
+
+-- Make these projects
+Project Vimal One
+Project Vimal Two
+Project Vimal Special Three 

@@ -1,0 +1,137 @@
+{
+  "main": {
+    "id": "1e24009d25b4d2cd",
+    "type": "split",
+    "children": [
+      {
+        "id": "0b6cf84d41dfad01",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Deployment of custom-um on Test server..md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a64ad2587c7a8e08",
+    "type": "split",
+    "children": [
+      {
+        "id": "866f5a4de3756df2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8c9b9d73e4b974c4",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "f266eeb936f75cdc",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "7afc11998fb66ce9",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "163a998d2a861126",
+    "type": "split",
+    "children": [
+      {
+        "id": "4cf128c0a4867f3e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3bf2da68993c792d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Deployment of custom-um on Test server..md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0b73fe50befba9ba",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Deployment of custom-um on Test server..md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "bd5752d5afe8a56d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "3c93e11486d84f4f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Deployment of custom-um on Test server..md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "0b6cf84d41dfad01",
+  "lastOpenFiles": [
+    "Docker notes.md",
+    "Deployment of custom-um on Test server..md",
+    "2022-09-19.md"
+  ]
+}

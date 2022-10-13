@@ -1,0 +1,6 @@
+UPDATE table SET parent_id = NULL WHERE id = 3212 
+
+UPDATE table SET parent_id = 3212 WHERE id = 3213 
+
+UPDATE table SET parent_id = 3213 WHERE id = 3214 
+

@@ -7,8 +7,12 @@
         "id": "88be46d657c4875b",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "azure/Deployment of citizen_survey on staging server.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -73,6 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "azure/Deployment of citizen_survey on staging server.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "azure/Deployment of citizen_survey on staging server.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -110,7 +116,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "azure/Deployment of citizen_survey on staging server.md"
+              }
             }
           },
           {
@@ -131,13 +139,15 @@
   },
   "active": "88be46d657c4875b",
   "lastOpenFiles": [
-    "annoted_docs/Untitled.md",
-    "logs/10-06.md",
-    "other_documents/ktd_docker_deployment_apig.md",
-    "MongoDB - Part of learnings/Index.md",
-    "MongoDB - Part of learnings/Basics.md",
-    "logs/10-03.md",
-    "_templates/daily_item.md",
-    "README.md"
+    "Untitled.md",
+    "azure/Deployment of citizen_survey on staging server.md",
+    "kafka_queues/Introduction.md",
+    "yt_ntoes/What is Kafka.md",
+    "yt_ntoes/Share node_modules across Docker containers.md",
+    "_templates/yt_note.md",
+    "annoted_docs/docker/Working-with-docker-bind-mounts-and-node_modules-burnedikt.png",
+    "_templates/sample_note.md",
+    "kafka_queues/rough_notes.md",
+    "_templates/daily_item.md"
   ]
 }

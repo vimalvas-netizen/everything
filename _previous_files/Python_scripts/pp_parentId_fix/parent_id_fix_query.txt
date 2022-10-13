@@ -1,0 +1,177 @@
+
+
+ UPDATE public.ncf_question_master SET parent_id = 5534 WHERE id = 5535 AND template_id = 70;
+
+ UPDATE public.ncf_question_master SET parent_id = 5535 WHERE id = 5536 AND template_id = 70;
+
+ UPDATE public.ncf_question_master SET parent_id = 5535 WHERE id = 5537 AND template_id = 70;
+
+ UPDATE public.ncf_question_master SET parent_id = 5535 WHERE id = 5538 AND template_id = 70;
+
+ UPDATE public.ncf_question_master SET parent_id = 5535 WHERE id = 5539 AND template_id = 70;
+
+ UPDATE public.ncf_question_master SET parent_id = 5535 WHERE id = 5541 AND template_id = 70;
+
+ UPDATE public.ncf_question_master SET parent_id = 5535 WHERE id = 5542 AND template_id = 70;
+
+ UPDATE public.ncf_question_master SET parent_id = 5534 WHERE id = 5543 AND template_id = 70;
+
+ UPDATE public.ncf_question_master SET parent_id = 5543 WHERE id = 5544 AND template_id = 70;
+
+ UPDATE public.ncf_question_master SET parent_id = 5543 WHERE id = 5545 AND template_id = 70;
+
+ UPDATE public.ncf_question_master SET parent_id = 5543 WHERE id = 5546 AND template_id = 70;
+
+ UPDATE public.ncf_question_master SET parent_id = 5543 WHERE id = 5547 AND template_id = 70;
+
+ UPDATE public.ncf_question_master SET parent_id = 5534 WHERE id = 5548 AND template_id = 70;
+
+ UPDATE public.ncf_question_master SET parent_id = 5548 WHERE id = 5549 AND template_id = 70;
+
+ UPDATE public.ncf_question_master SET parent_id = 5548 WHERE id = 5550 AND template_id = 70;
+
+ UPDATE public.ncf_question_master SET parent_id = 5548 WHERE id = 5551 AND template_id = 70;
+
+ UPDATE public.ncf_question_master SET parent_id = 5548 WHERE id = 5552 AND template_id = 70;
+
+ UPDATE public.ncf_question_master SET parent_id = 5548 WHERE id = 5553 AND template_id = 70;
+
+ UPDATE public.ncf_question_master SET parent_id = 5534 WHERE id = 5554 AND template_id = 70;
+
+ UPDATE public.ncf_question_master SET parent_id = 5554 WHERE id = 5555 AND template_id = 70;
+
+ UPDATE public.ncf_question_master SET parent_id = 5555 WHERE id = 5556 AND template_id = 70;
+
+ UPDATE public.ncf_question_master SET parent_id = 5555 WHERE id = 5557 AND template_id = 70;
+
+ UPDATE public.ncf_question_master SET parent_id = 5555 WHERE id = 5558 AND template_id = 70;
+
+ UPDATE public.ncf_question_master SET parent_id = 5555 WHERE id = 5559 AND template_id = 70;
+
+ UPDATE public.ncf_question_master SET parent_id = 5559 WHERE id = 5560 AND template_id = 70;
+
+ UPDATE public.ncf_question_master SET parent_id = 5559 WHERE id = 5561 AND template_id = 70;
+
+ UPDATE public.ncf_question_master SET parent_id = 5554 WHERE id = 5562 AND template_id = 70;
+
+ UPDATE public.ncf_question_master SET parent_id = 5562 WHERE id = 5563 AND template_id = 70;
+
+ UPDATE public.ncf_question_master SET parent_id = 5562 WHERE id = 5564 AND template_id = 70;
+
+ UPDATE public.ncf_question_master SET parent_id = 5562 WHERE id = 5565 AND template_id = 70;
+
+ UPDATE public.ncf_question_master SET parent_id = 5562 WHERE id = 5566 AND template_id = 70;
+
+ UPDATE public.ncf_question_master SET parent_id = 5566 WHERE id = 5567 AND template_id = 70;
+
+ UPDATE public.ncf_question_master SET parent_id = 5566 WHERE id = 5568 AND template_id = 70;
+
+ UPDATE public.ncf_question_master SET parent_id = 5554 WHERE id = 5569 AND template_id = 70;
+
+ UPDATE public.ncf_question_master SET parent_id = 5569 WHERE id = 5570 AND template_id = 70;
+
+ UPDATE public.ncf_question_master SET parent_id = 5569 WHERE id = 5571 AND template_id = 70;
+
+ UPDATE public.ncf_question_master SET parent_id = 5569 WHERE id = 5572 AND template_id = 70;
+
+ UPDATE public.ncf_question_master SET parent_id = 5569 WHERE id = 5573 AND template_id = 70;
+
+ UPDATE public.ncf_question_master SET parent_id = 5573 WHERE id = 5574 AND template_id = 70;
+
+ UPDATE public.ncf_question_master SET parent_id = 5573 WHERE id = 5575 AND template_id = 70;
+
+ UPDATE public.ncf_question_master SET parent_id = 5554 WHERE id = 5576 AND template_id = 70;
+
+ UPDATE public.ncf_question_master SET parent_id = 5576 WHERE id = 5577 AND template_id = 70;
+
+ UPDATE public.ncf_question_master SET parent_id = 5576 WHERE id = 5578 AND template_id = 70;
+
+ UPDATE public.ncf_question_master SET parent_id = 5576 WHERE id = 5579 AND template_id = 70;
+
+ UPDATE public.ncf_question_master SET parent_id = 5576 WHERE id = 5580 AND template_id = 70;
+
+ UPDATE public.ncf_question_master SET parent_id = 5580 WHERE id = 5581 AND template_id = 70;
+
+ UPDATE public.ncf_question_master SET parent_id = 5580 WHERE id = 5582 AND template_id = 70;
+
+ UPDATE public.ncf_question_master SET parent_id = 5554 WHERE id = 5583 AND template_id = 70;
+
+ UPDATE public.ncf_question_master SET parent_id = 5554 WHERE id = 5584 AND template_id = 70;
+
+ UPDATE public.ncf_question_master SET parent_id = 5554 WHERE id = 5585 AND template_id = 70;
+
+ UPDATE public.ncf_question_master SET parent_id = 5585 WHERE id = 5586 AND template_id = 70;
+
+ UPDATE public.ncf_question_master SET parent_id = 5585 WHERE id = 5587 AND template_id = 70;
+
+ UPDATE public.ncf_question_master SET parent_id = 5585 WHERE id = 5588 AND template_id = 70;
+
+ UPDATE public.ncf_question_master SET parent_id = 5585 WHERE id = 5589 AND template_id = 70;
+
+ UPDATE public.ncf_question_master SET parent_id = 5589 WHERE id = 5590 AND template_id = 70;
+
+ UPDATE public.ncf_question_master SET parent_id = 5589 WHERE id = 5591 AND template_id = 70;
+
+ UPDATE public.ncf_question_master SET parent_id = 5554 WHERE id = 5592 AND template_id = 70;
+
+ UPDATE public.ncf_question_master SET parent_id = 5554 WHERE id = 5593 AND template_id = 70;
+
+ UPDATE public.ncf_question_master SET parent_id = 5554 WHERE id = 5594 AND template_id = 70;
+
+ UPDATE public.ncf_question_master SET parent_id = 5534 WHERE id = 5595 AND template_id = 70;
+
+ UPDATE public.ncf_question_master SET parent_id = 5534 WHERE id = 5596 AND template_id = 70;
+
+ UPDATE public.ncf_question_master SET parent_id = 5534 WHERE id = 5597 AND template_id = 70;
+
+ UPDATE public.ncf_question_master SET parent_id = 5597 WHERE id = 5598 AND template_id = 70;
+
+ UPDATE public.ncf_question_master SET parent_id = 5597 WHERE id = 5599 AND template_id = 70;
+
+ UPDATE public.ncf_question_master SET parent_id = 5597 WHERE id = 5600 AND template_id = 70;
+
+ UPDATE public.ncf_question_master SET parent_id = 5597 WHERE id = 5601 AND template_id = 70;
+
+ UPDATE public.ncf_question_master SET parent_id = 5597 WHERE id = 5602 AND template_id = 70;
+
+ UPDATE public.ncf_question_master SET parent_id = 5597 WHERE id = 5603 AND template_id = 70;
+
+ UPDATE public.ncf_question_master SET parent_id = 5597 WHERE id = 5604 AND template_id = 70;
+
+ UPDATE public.ncf_question_master SET parent_id = 5597 WHERE id = 5605 AND template_id = 70;
+
+ UPDATE public.ncf_question_master SET parent_id = 5534 WHERE id = 5606 AND template_id = 70;
+
+ UPDATE public.ncf_question_master SET parent_id = 5606 WHERE id = 5607 AND template_id = 70;
+
+ UPDATE public.ncf_question_master SET parent_id = 5606 WHERE id = 5608 AND template_id = 70;
+
+ UPDATE public.ncf_question_master SET parent_id = 5606 WHERE id = 5609 AND template_id = 70;
+
+ UPDATE public.ncf_question_master SET parent_id = 5606 WHERE id = 5610 AND template_id = 70;
+
+ UPDATE public.ncf_question_master SET parent_id = 5534 WHERE id = 5611 AND template_id = 70;
+
+ UPDATE public.ncf_question_master SET parent_id = 5611 WHERE id = 5612 AND template_id = 70;
+
+ UPDATE public.ncf_question_master SET parent_id = 5611 WHERE id = 5613 AND template_id = 70;
+
+ UPDATE public.ncf_question_master SET parent_id = 5611 WHERE id = 5614 AND template_id = 70;
+
+ UPDATE public.ncf_question_master SET parent_id = 5611 WHERE id = 5615 AND template_id = 70;
+
+ UPDATE public.ncf_question_master SET parent_id = 5534 WHERE id = 5616 AND template_id = 70;
+
+ UPDATE public.ncf_question_master SET parent_id = 5616 WHERE id = 5617 AND template_id = 70;
+
+ UPDATE public.ncf_question_master SET parent_id = 5616 WHERE id = 5618 AND template_id = 70;
+
+ UPDATE public.ncf_question_master SET parent_id = 5616 WHERE id = 5619 AND template_id = 70;
+
+ UPDATE public.ncf_question_master SET parent_id = 5616 WHERE id = 5620 AND template_id = 70;
+
+ UPDATE public.ncf_question_master SET parent_id = 5534 WHERE id = 5621 AND template_id = 70;
+
+ UPDATE public.ncf_question_master SET parent_id = 5548 WHERE id = 5622 AND template_id = 70;
+
+ UPDATE public.ncf_question_master SET parent_id = 5534 WHERE id = 5623 AND template_id = 70;

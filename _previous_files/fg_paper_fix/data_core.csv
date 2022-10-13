@@ -1,0 +1,7 @@
+"title","guideline","min_word","max_word","type","answer_type","status","question_type","title_hn","guideline_hn","display_in_report","ans_inp_type"
+"Executive Summary/Abstract",NULL,"1","500","question","manual",NULL,"single",NULL,NULL,1,NULL
+"Process of consultations followed by the State including number of consultations, meetings, collaborations, participants etc.",NULL,NULL,NULL,"question","auto",NULL,"single",NULL,NULL,0,NULL
+"A brief of Mobile app-based survey and District level consultations conducted by the States/UTs.","Brief on Science Education","1","500","question","manual",NULL,"single",NULL,NULL,1,NULL
+"List of Members, Co-opted members and special invitees of the Focus Group",NULL,NULL,NULL,"question","auto",NULL,"single",NULL,NULL,0,NULL
+"Acknowledgements",NULL,"1","300","question","manual",NULL,"single",NULL,NULL,1,NULL
+"Content Outline/ Chapters",NULL,NULL,NULL,"question","auto",NULL,"single",NULL,NULL,0,NULL

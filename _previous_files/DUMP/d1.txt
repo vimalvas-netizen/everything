@@ -1,0 +1,1348 @@
+npm --version
+code .
+cod e.
+code .
+npm i express
+npm start
+git status
+git stash
+
+
+TODO : Work on it later
+
+
+npm i
+node app.js
+java --version
+javac --version
+npm i
+java --version
+javac --version
+npm i pg
+psql -U postgres
+pgsql -U
+node app.js
+npx create-react-app FCA
+npx create-react-app fca
+npm init directus-project ncf-trial
+npx directus start
+clear
+npx directus start
+clear
+npx directus start
+ npm init directus-project ncf-trial2
+psql -U postgres
+npx directus start
+cd code
+node p1.js
+npm readline-sync
+npm i readline-sync
+node p1.js
+cd code 
+ls
+node pq.js
+node p1.js
+npx directus start
+git status
+git add .
+git commit -m "Adds Question List"
+clear
+npm init -y
+npm i express colors
+npm i nodemon
+git init
+git remote add origin https://github.com/vimalvas-netizen/learning-node.git
+git remote set-url origin https://github.com/vimalvas-netizen/learning-node.git
+git branch -M main
+git branch -r
+git branch
+npm i express nodemon
+npm init -y
+npm start
+npm i busboy
+npm start
+git init
+npx directus start
+git status
+git pull origin development
+git switch development
+git pull origin development
+git switch vimal_update_stamps
+clear
+npx directus start
+git status
+npx directus start
+npx express-generator new-express-app --no-view
+git diff
+npx directus start
+npm run dev
+git status
+git diff
+clear
+npm run dev
+clear
+npm run dev
+git status
+git statu
+git status
+git diff
+npm run dev
+npm run start
+git branch
+git branch addPassword
+ls
+git switch addPassword
+npm run dev
+clear
+npm install
+npm start
+git status
+git init 
+git status
+git add .
+git commit -m "Starts File"
+git config user.email "vimal.vashisth@netprophetsglobal.com"
+git config user.name "Vimal"
+git commit -m "Starts File"
+git status
+git branch -M main
+git remote add origin https://github.com/vimalvas-netizen/React-Js.git
+git push -u origin main
+git status
+git add .
+git commit -m "Adds Readme"
+git push origin main
+git status
+git diff
+q
+git status
+npx directus
+git status
+git diff
+git status
+npm run dev
+git diff
+git status
+git restore extensions/endpoints/document-reports/index.js
+git status
+npm run dev
+git status
+npm run dev
+git pull origin development
+git push origin vimal_dev
+git branch vimal_comments_toggle
+git add .
+git status
+npm run dev
+git status
+git branch
+npm run dev
+npx directus srtart
+npx directus start
+npm run start
+npm run dev
+git status
+npm run dev
+npm run start
+git status
+npm install
+npx create-directus-project directus-um
+npm run dev
+npm i --save-dev nodemon
+npx directus start
+npm run dev
+npm run start
+git status
+git stash
+git status
+git branch
+git statjus
+git status
+git add .
+git status
+git add .
+git status
+git restore .
+git status
+git statu
+git status
+git branch
+git switch development
+git branch -r
+git switch vimal_sc_mails
+npm run start
+npm directus start
+npm run dev
+npm run start
+git status
+git restore extensions/endpoints/auth/index.js
+git status
+npm directus start
+npm run start
+git status
+git branch
+git switch development
+git status
+git pull origin development
+npm run dev
+y
+npm run dev
+git status
+git branch
+git status
+git restore extensions/endpoints/auth/index.js
+git statu
+git status
+git branch vimal_dcr_report
+git status
+git switch vimal_dcr_report
+git branch
+npm run dev
+git branch
+git status
+git branch
+git add .
+git commit -m "DCR question report"
+git status
+git push origin vimal_dcr_report
+npm run dev
+node test.js
+npm run dev
+y
+npm run dev
+git status
+git add .
+git status
+git restore --staged extensions/endpoints/document-reports/RevisionController.js
+git status
+git restore extensions/endpoints/document-reports/RevisionController.js
+git status
+git add .
+git branch
+git status
+git commit -m 
+git commit -m "DCR report completed"
+git push origin vimal_dcr_report
+npm run dev
+y
+git status
+git add .
+git commit -m "Improves DCR report`
+`
+"
+git status
+git push origin vimal_dcr_report
+npm run dev
+git statu
+git status
+git diff
+git status
+git add .
+git commit -m "Improving by typing fg_type to ans filter"
+git push origin vimal_dcr_report
+npm run dev
+y
+npm run dev
+git status
+y
+git status
+git add .
+git commit -m "DCR report improvement"
+git push origin vimal_dcr_report
+git status
+git branch
+git switch development
+git status
+git pull origin development
+git branch
+git status
+git branch vimal_users_stat
+git switch vimal_users_stat
+git branch
+npm run dev
+git status
+git add .
+git commit -m "Makes a userStat"
+git branch
+git push origin vimal_users_stat
+npm run dev
+pwd
+git branch
+git status
+git diff
+git status
+npm run dev
+git statu
+git status
+git add .
+git status
+git commit -m "Changes the file name for queries"
+git status
+git fetch --all
+git status
+git switch language_functionality
+git status
+git branch
+git status
+npm run dev
+y
+npm run dev
+git status
+git switch development
+npm run dev
+y
+npm run dev
+y
+npm run dev
+git branch
+git switch language_functionality
+npm run dev
+git status
+git restore  extensions/services/index.js
+git status
+git switch language_functionality
+npm run dev
+git status
+git switch development
+npm run dev
+git branch
+git switch language_functionality
+npm run dev
+npm i i18n
+npm run dev
+y
+npm run dev
+y
+git status
+git restore extensions/endpoints/auth/index.js
+git status
+git branch
+git switch vimal_dcr_report
+git status
+git add  extensions/endpoints/document-reports/QuestionMasterReportController.js
+git stattus
+git status
+git commit -m "Removes comments and cache mech"
+git status
+npm run dev
+y
+git status
+git add  extensions/endpoints/document-reports/services/question_report.service.js
+git commit -m "Improves service"
+git branch
+git push origin vimal_dcr_report
+git branch
+git switch vimal_users_stat
+git branch
+npm run dev
+y
+git status
+git branch
+git switch development
+git branch
+git branch vimal_local_lang
+git statu
+git switch vimal_local_lang
+git branch
+git switch development
+git status
+git branch
+git switch language_functionality
+git status
+git branch
+git branch -D vimal_local_lang
+git branch vimal_local_lang
+git switch vimal_local_lang
+git status
+npm run dev
+git status
+git branch
+git status
+git restore  extensions/endpoints/auth/index.js
+git status
+git switch development
+npm run dev
+npm i passport
+npm run dev
+git status
+npm run dev
+git status
+git restore extensions/endpoints/document-reports/ResponseController.js
+git status
+git branch
+git switch vimal_dcr_report
+git switch development
+git pull origin development
+git switch vimal_dcr_report_second
+git branch vimal_dcr_report_second
+git switch vimal_dcr_report_second
+git status
+git branch
+git switch development
+git branch
+git pull origin development
+git status
+git restore extensions/endpoints/document-reports/services/question_report.service.js
+npm run dev
+git status
+git restore  extensions/endpoints/document-reports/GoodPracticesController.js
+git restore extensions/endpoints/document-reports/services/question_report.service.js
+git switch vimal_dcr_report_second
+git status
+git sbranch
+git branch
+npm run dev
+git status
+git branch
+git add .
+git statusu
+git status
+git add extensions/endpoints/document-reports/services/question_report.service.js
+git add extensions/endpoints/documents/index.js
+git add extensions/services/user.js
+git status
+git add. 
+git add .
+git status
+git commit -m "DCR report in progress"
+git status
+git switch development
+git status
+npm run dev
+git branch
+git switch  vimal_dcr_report_second
+git status
+git add extensions/endpoints/document-reports/services/question_report.service.js
+git status
+git commit -m "Progressing"
+git switch development
+npm run dev
+git status
+git branch
+git restore  vimal_dcr_report_second
+git switch vimal_dcr_report_second
+git status
+git add extensions/endpoints/document-reports/services/question_report.service.js
+git commit -m "Finishing DCR report"
+git branch
+git switch development
+npm run dev
+git branch
+npm run dev
+npm init
+git init -y
+npm init -y
+npm i typescript
+tsc --init
+npm run tsc --init
+npm i -g typescript
+touch app.ts
+npm init -y
+touch app.ts
+npm i express
+npm i -D typescript ts-node nodemon @types/node @types/express 
+npm run dev
+npm run build
+npm install -g ts-node
+npm run build
+git status
+git branch
+git status
+git pull origin development
+git switch vimal_dcr_report
+git status
+git switch vimal_dcr_report_second
+git status
+npm run dev
+git status
+npm run dev
+git status
+git add  extensions/endpoints/document-reports/QuestionMasterReportController.js
+git add  extensions/endpoints/document-reports/services/question_report.service.js
+git status
+git commit -m "Report on basis of display_in_report filter plus few more"
+git branch
+git push origin vimal_dcr_report_second
+git status
+git branch
+npm init -y
+npm i express
+npm i -D ts-node
+npm i -D @types/node
+npm i -D @types/express
+npm i -D nodemon
+tsc --init
+tsc init
+node tsc init
+nod
+node
+curl localhost:5000
+curl http://localhost:5000
+git status
+git branch
+git status
+git switch development
+git branch
+npm i excel4node
+git status
+npm run dev
+npm install xlsx
+npm init
+npm init -y
+npm install xlsx
+npm run dev
+npm i exceljs
+npm run dev
+y
+npm init -y
+npm run dev
+git status
+git restore package-lock.json
+git restore package.json
+git status
+npm i exceljs
+npm run dev
+y
+git status
+git branch
+npm run dev
+t
+git diff
+npm run dev
+git status
+git restore  extensions/endpoints/documents/index.js
+npm run dev
+git switch development
+git pull origin development
+npm run dev
+git status
+npm run dev
+git switch vimal_dcr_report_second
+npm run dev
+y
+git status
+npm run dev
+git status
+git add extensions/endpoints/documents/index.js
+git commit -m "Improves filter"
+git push origin vimal_check_gdln
+npm run dev
+y
+npm run dev
+git status
+npm run dev
+git status
+git statu
+git status
+npm run dev
+git status
+git add extensions/endpoints/document-reports/UserReportController.js
+git status
+git add  extensions/endpoints/document-reports/UserReportController.js
+git commit -m "Adding, Correcting template format"
+git push origin vimal_mail_user
+npm run dev
+git statu
+git status
+git restore extensions/hooks/cron/index.js
+git status
+git switch development
+git pull origin development
+npm run dev
+\
+git status
+npm run dev
+git status
+git add  extensions/endpoints/document-reports/UserReportController.js
+git commit -m "Refactoring code:`
+":
+git status
+git log
+git status
+npm run dev
+git status
+git add extensions/endpoints/document-reports/SaveResponsesController.js
+git status
+git commit -m "ML output"
+git branch
+git push origin vimal_responses_save
+git status
+git restore extensions/hooks/cron/index.js
+git status
+git add "ML output"
+git commit-m "ML output"
+git commit -m "ML output"
+git push origin vimal_responses_save
+git status
+git satus
+git status
+git add extensions/hooks/cron/index.js
+git commit -m "ML output 2"
+git push origin vimal_responses_save 
+git status
+git add  extensions/hooks/cron/index.js
+git status
+git add extensions/endpoints/document-reports/SaveResponsesController.js
+git commit -m "ML 3"
+git push origin vimal_responses_save 
+git status
+tsc --init
+git branch
+git statu
+git status
+npm run dev
+tsc 
+tsc -w
+python -m venv venv
+node js-play
+git status
+npm run dev
+y
+npm run dev
+git status
+npm run dev
+npx create-react-app first-react-app
+npm uninstall -g create-react-app
+npx create-react-app first_react_app
+npm init react-app first_app
+npx create-react-app firstApp
+ npm uninstall -g create-react-app
+git stauts
+git status
+npx create-react-app app
+npx create-react-app@latest firstApp
+npx create-react-app@latest reactapp
+git status
+npm run build
+npm run start
+npm install
+git status
+git branch
+npm init -y
+npm run async
+git status
+node test3.js
+git status
+git brancfh
+git branch
+git restore extensions/endpoints/documents/index.js
+git status
+git switch development
+git pull origin development
+npm run dev
+git status
+git restore extensions/services/export.js
+git clone https://github.com/vimalvas-netizen/ncf_sync.git
+subl .
+touch README.md
+ls
+git status
+git add .
+git commit -m "First Commit"
+git config user.email "vimal.vashisth@netprophetsglobal.com"
+git config user.name "Vimal Vashisth"
+git status
+git commit -m "First Commit"
+git status
+git branch -M main
+git remote add origin https://github.com/vimalvas-netizen/ncf_sync.git
+git push -u origin main
+git branch
+git add .
+git commit -m "cm"
+git push origin main
+py -m pip --version
+git status
+git add .
+git branch
+git commit -m "Python Scripts"
+git push origin main
+git status
+git add .
+git commit -m "Querires update"
+git push origin main
+npm run dev
+git status
+git add extensions/endpoints/documents/index.js
+git add extensions/endpoints/master/index.js
+git diff
+node -i
+npm run dev
+git branch
+git status
+npx create-react-app udemy-react-secOne
+npx create-react-app@latest udemy-reac-secOne
+npx create-react-app@latest udemyReactSecOne
+npx create-react-app@latest udemy-react-sec-one
+git clone https://github.com/academind/react-complete-guide-code.git
+git branch
+git switch 03-react-basics-working-with-components
+npm i
+npm start
+npm i 
+npm start
+git status
+npm run dev
+git status
+git diff
+git restore extensions/endpoints/documents/index.js
+git status
+npm run dev
+git status
+git add extensions/endpoints/documents/index.js
+git commit -m "Multi-role group for guidelines"
+git push origin guideline_multi_groups_select
+npm start
+git branch -r
+git switch 04-react-state-events
+git status
+npm start
+npm install @azure/cosmos
+npm install
+npm func start
+func start
+\
+func start
+npm install dotenv --save
+func start
+npm i dotenv
+npm uninstall dotenv
+npm install dotenv --save
+func start
+npm i @azure/cosmos
+func start
+git clone https://git.inroad.in/ncf-documents/ncf-documents.git
+func start
+git status
+git add Citizen Survey Doc/
+git status
+git add Citizen-Survey-Doc
+git status
+git commit -m "Push Citizen Survey Doc"
+git branch 
+func start
+npm --help
+npm i crypto
+npm uninstall crypto
+npm i crypto-js
+git clone https://github.com/vimalvas-netizen/azure_demo.git
+git status
+git add .
+git status
+git add .
+git commit -m "Put Everything to Code"
+git status
+git config user.email "vimal.vashisth@netprophetsglobal.com"
+git config user.name "Vimal"
+git commit -m "All"
+git status
+git branch
+git push origin main
+git pull origin main
+func start
+npm i axios
+func start
+cde
+func start
+git status
+git add .
+git commit -m "Adds more"
+git config user.email "vimal.vashisth@netprophetsglobal.com"
+git config user.name "Vimal"
+git commit -m "Adds"
+git status
+git branch -r
+git branch
+git clone https://github.com/vimalvas-netizen/azure_demo.git
+git status
+git add .
+git commit -m "Adds more"
+git branch -r
+git config user.email "vimal.vashisth@netprophetsglobal.com"
+git config user.name "Vimal"
+git commit -m "Adds more"
+git push origin main
+git push origin master
+git remote add origin https://github.com/vimalvas-netizen/azure_demo.git
+git status
+git branch -r
+git remote add origin git@github.com:vimalvas-netizen/azure_demo.git
+git remote
+git remote origin
+git status
+git push origin master
+func start
+npm run start
+func start
+npm run start
+git status
+git add .
+git commit -m "Changes more"
+git config user.email "vimal.vashisth@netprophetsglobal.com"
+git config user.name "Vimal"
+git commit -m "Adds more"
+git push origin master
+git push origin main
+git status
+git push origin master
+git origin
+func start
+npm init --y
+npm i crypto-js
+node app
+func start
+node app
+func start
+node app
+func start
+node app
+func start
+node app
+git diff
+func start
+git status
+git add .
+git commit -m "Working"
+git config --global user.email "vimal.vashisth@netprophetsglobal.com"
+git config --global user.name "Vimal Vashisth"
+git commit -m "Working"
+git status
+git branch
+func start
+clear
+func start
+git status
+git add .
+git commit -m "Finishes with NPC template"
+git status
+git remote add origin https://github.com/vimalvas-netizen/azure_demo.git
+git status
+git push origin master
+git branch NPC_sms
+git switch NPC_sms
+git push origin NPC_sms
+git branch dev
+git switch dev
+git push origin dev
+git status
+git branch
+git add .
+git commit -m "adds local config file"
+git status
+git push origin dev
+func start
+func init --docker-only
+git status
+git branch
+git switch -b ss_validation
+git switch -c validate_response
+git status
+func start
+git status 
+git log --oneline
+func start
+git status
+git add .
+git commit -m "2.0.0"
+git status
+git branch
+func start
+git status
+git diff
+git status
+git restore submit-form/index.js
+git restore utils.js
+git status
+git diff
+git statu
+sq
+git status
+git add .
+git commit -m "2.1.0"
+func start
+func init --docker
+func new
+wsl
+docker --version
+docker login
+docker build -t vimalnp:cs-worker-1
+docker build -t vimalnp:cs-worker-1 .
+az aks get-credentials -g RG-CitizenSurvey -n cs-cluster --overwrite-existing
+az
+az aks get-credentials -g RG-CitizenSurvey -n cs-cluster --overwrite-existing
+helm
+az aks get-credentials -g RG-CitizenSurvey -n cs-cluster --overwrite-existing
+az
+az --help
+az aks get-credentials -g RG-CitizenSurvey -n cs-cluster --overwrite-existing
+az login
+func start
+npm init -y
+npm install @azure/storage-queue
+npm install --save node-cron
+npm install dotenv --save
+node utils/main
+node app
+node utils/main
+node app
+git branch
+git status
+git add extensions/endpoints/document-reports/UserReportController.js
+git add extensions/services/crypto.js
+git status
+git commit -m "Temp Changes"
+git switch development
+git pull origin development
+node app
+npm install pg
+npm i pg
+node app2
+git status
+git branch
+git switch -c aks
+git status
+git push origin aks
+git user.name
+git config user.name
+git remote add origin git@github.com:vimalvas-netizen/azure_demo.git
+git status
+git add .
+git commit -m "add workers"
+git push origin aks
+git branch
+git status
+git pull origin
+npm install jsonwebtoken
+node getJwt
+npm install pg
+node app
+node app
+docker pull vimal0123/visitors-web
+node app
+lsof
+ion. All rights reserved.
+Try the new cross-platform PowerShell https://aka.ms/pscore6
+PS C:\WINDOWS\system32>
+telnet localhost 5432
+telnet localhost 35432
+node app
+git pull origin
+node app
+node --version
+node app
+docker login
+docker
+docker version
+docker 
+docker --version
+node app
+docer
+docker build -t vimalnp/worker-cs .
+docker build -t vimalnp/worker-cs
+docker build -t vimalnp/worker-cs .
+docker run vimalnp/worker-cs
+docker 
+docker run vimalnp/worker-cs
+docker ps
+clear
+docker ps
+docker run --network=host vimalnp/worker-cs
+docker build -t vimalnp/worker-cs
+docker build -t vimalnp/worker-cs .
+docker run vimalnp/worker-cs
+docker ps --all
+docker exec -it vimalnp/worker-cs telnet localhost 35432
+docker exec -it 2a0ec63407f3 telnet localhost 35432
+docker exec -it 2a0ec63407f3 vash
+docker exec -it 2a0ec63407f3 bash
+docker exec -it 2a0ec63407f3 sh
+docker kill 2a0ec63407f3
+docker ps
+docker ps --all
+docker ps
+docker run vimalnp/worker-cs sh -c "apt-get -y update"
+docker ps
+clear
+docker build -t vimalnp/worker-cs .
+docker build -t vimalnp/worker-cs .
+docker run vimalnp/worker-cs
+cd Desktop\worker-cs
+docker run vimalnp/worker-cs
+docker ps
+docker exec -it c8e4bc2b31d8 sh
+docker kill c8e4bc2b31d8
+docker kill 9e7999ef0846
+docker ps
+docker run --network=host vimalnp/worker-cs
+docker ps
+docker exec -it 3610fb485213 sh
+docker ps -a
+docker inspect quizzical_chatelet
+docker inspect quizzical_chatelet | grep port
+docker exec -it 3610fb485213 bash
+docker exec -it 3610fb485213 sh
+docker ps -a
+docker container stop quizzical_chatelet
+docker run -it -d --name vimal-np vimalnp/worker-cs 
+docker ps
+docker container stop vimal-np
+docker container rm vimal-np
+docker run -it -d -p 35433:35432 --name vimal-np vimalnp/worker-cs 
+docker -exec -it vimal-np sh
+docker exec -it vimal-np sh
+telnet localhost 35433
+ls
+docker ps
+docker stop 76c083942104
+docker run vimalnp/worker-cs -p 35432:35432
+docker run -p 35432:35432 -it -d --name vimal-np2 vimalnp/worker-cs
+docker ps
+docker exec -it sh
+docker exec -it f691d4e8803c sh
+telnet localhost 35432
+ipconfig
+lsof -i:35432
+docker exec -it f691d4e8803c sh
+ipconfig
+docker inspect vimal-np2
+telnet 172.17.0.2 35432
+docker ps
+telnet localhost 35432
+docker ps
+docker container stop vimal-np2
+telnet localhost 35432
+docker container start vimal-np2
+docker exec -it vimal-np2
+docker exec -it vimal-np2 sh
+ipconfig
+telnet 172.21.240.2 35432
+docker ports 
+docker port
+docker port vimal-np2 35432
+docker port vimal-np2 35433
+docker port vimal-np 35433
+ipconfig
+ping 172.21.240.2
+ping 172.21.240.2 8056
+telnet 172.21.240.2 8056
+docker inspect 172.21.240.2
+docker inspect vimal-np2
+ping 172.21.240.1
+telnet 0.0.0.0 35432
+telnet 172.17.0.2 35432
+ping az-citizen-survey-db.postgres.database.azure.com
+telnet az-citizen-survey-db.postgres.database.azure.com 5432
+ipconfig
+telnet 172.17.0.2
+telnet localhost 35432
+git status
+git status
+node app
+docker build -t vimalnp/worker-cs .
+docker compose-up -d
+docker-compose up -d
+docker ps
+docker ps --all
+docker run dd935de11a08
+docker run mcr.microsoft.com/azuredocs/azure-vote-front:v1
+docker container start 66e3fd6a786f
+docker ps
+docker container start dd935de11a08
+az --version
+az acr login --name workerCS
+docker images
+az acr list --resource-group RG-CitizenSurvey --query "[].{acrLoginServer:loginServer}" --output table
+docker tag mcr.microsoft.com/azuredocs/azure-vote-front workercs.azurecr.io/azure-vote-front:v1
+docker tag mcr.microsoft.com/azuredocs/azure-vote-front:v1 workercs.azurecr.io/azure-vote-front:v1
+docker images
+docker push workercs.azurecr.io/azure-vote-front:v1
+docker build -t vimalnp/worker-cs:v1
+docker build -t vimalnp/worker-cs:v1 .
+az acr login --name workerCS
+docker images
+docker build -t vimalnp/worker-cs:v2
+docker build -t vimalnp/worker-cs:v2 .
+docker images
+az acr list --resource-group RG-CitizenSurvey --query "[].{acrLoginServer:loginServer}" --output table
+docker tag vimalnp/worker-cs:v1 workercs.azurecr.io/worker-cs:v1
+docker images
+docker push workercs.azurecr.io/worker-cs
+docker push workercs.azurecr.io/worker-cs:v1
+az acr login --name registrynpcs
+az acr list --resource-group RG-CitizenSurvey --query "[].{acrLoginServer:loginServer}" --output table
+docker images
+docker tag vimalnp/worker-cs:v1 registrynpcs.azurecr.io/worker-cs:v1
+docker images
+docker push registrynpcs.azurecr.io/worker-cs:v1
+docker build -t vimalnp/workers-cs:v1 .
+az aks update -n myAKSCluster -g RG-CitizenSurvey --attach-acr registrynpcs
+az aks update -n cs-cluster -g RG-CitizenSurvey --attach-acr registrynpcs
+azure login
+az login
+az aks update -n cs-cluster -g RG-CitizenSurvey --attach-acr registrynpcs
+docker images
+docker build vimalnp/worker-cs .
+docker build -t vimalnp/worker-cs .
+docker images
+docker run --network="host" vimalnp/worker-cs:latest
+docker run vimalnp/worker-cs:latest
+docker run --network="bridge" vimalnp/worker-cs:latest
+node app
+docker run vimalnp/worker-cs:latest
+docker build -t vimalnp/worker-cs .
+docker run --network="host" vimalnp/worker-cs:latest
+docker run vimalnp/worker-cs:latest
+docker run --network="bridge" vimalnp/worker-cs:latest
+docker run --network="host" vimalnp/worker-cs:latest
+node app
+docker build -t vimalnp/worker-cs .
+docker run --network="host" vimalnp/worker-cs:latest
+docker exec -it  vimalnp/worker-cs:latest sh
+docker build -t vimalnp/worker-cs .
+docker run --network="bridge" vimalnp/worker-cs:latest
+docker images
+docker run vimalnp/worker-cs:latest
+docker build -t vimalnp/worker-cs .
+docker run vimalnp/worker-cs:latest
+docker images
+docker ps
+docker exect -it 03f2b4dca089 sh
+docker exec -it 03f2b4dca089 sh
+docker ps
+docker stop
+docker stop 03f2b4dca089
+docker build -t vimalnp/worker-cs .
+docker ps -all
+docker ps --all
+docker build -t vimalnp/worker-cs .
+docker start 03f2b4dca089
+docker log 03f2b4dca089
+docker container 03f2b4dca089
+docker container 03f2b4dca089 logs
+docker container logs
+docker container logs 03f2b4dca089
+docker run -it --name vimal-np vimalnp/worker-cs
+docker images
+docker build -t vimalnp/worker-cs .
+docker images
+docker run -it --name vimalnp vimalnp/worker-cs:latest
+docker ps
+docker build -t vimalnp/worker-cs .
+docker ps
+docker exec -it 03f2b4dca089 sh
+docker images
+docker -it --name vimalnp2 vimalnp/worker-cs
+docker run -it --name vimalnp2 vimalnp/worker-cs
+docker exec -it 291143d1bf28 sh
+docker ps
+docker stop vimalnp2
+docker run vimalnp2
+docker build -t vimalnp/worker-cs .
+docker ps
+docker run -it --name vimalnp3 vimalnp/worker-cs
+docker ps
+docker exec -it 6fd5a9230222 sh
+docker ps 
+docker stop 6fd5a9230222
+docker container start 6fd5a9230222
+docker container logs 6fd5a9230222
+docker build -t vimalnp/worker-cs .
+docker ps
+docker stop 6fd5a9230222
+docker images
+docker run -it --name vimalnp4 vimalnp/worker-cs:latest
+docker ps
+docker exec -it vimalnp4
+docker exec -it vimalnp4 sh
+docker stop vimalnp4
+docker container start vimalnp4
+docker container logs vimalnp4
+docker exec -it sh
+docker exec -it vimalnp4 sh
+docker ps
+docker stop vimalnp4
+docker images
+docker run -it --name vimalnp5 vimalnp/worker-cs:lates
+docker run -it --name vimalnp5 vimalnp/worker-cs:latest
+docker images
+docker build -t vimalnp/worker-cs .
+docker ps
+docker images
+docker run vimalnp/worker-cs
+docker build -t vimalnp/worker-cs .
+docker ps
+docker images
+docker run -it --name vimanp5 vimalnp/worker-cs
+docker build -t vimalnp/worker-cs .
+docker images
+docker run -it --name vimalnp6 vimalnp/worker-cs
+docker ps
+docker exec -it vimalnp6 sh
+docker ps
+docker images
+docker run -it --name vimalnp7 vimalnp/worker-cs:latests
+docker run -it --name vimalnp7 vimalnp/worker-cs:latest
+docker exec -it vimalnp7 sh
+python -v
+python -V
+cd c:\
+pythom -m http.server 88
+python -m http.server 88
+docker exec -it vimalnp7 sh
+docker run -it --name vimalnp7 vimalnp/worker-cs:latest
+docker container start vimalnp7
+docker container logs vimalnp7
+docker exec -it 03f2b4dca089 sh
+node app
+docker exec -it 03f2b4dca089 sh
+docker ps
+docker exec -it vimalnp7 sh
+telnet.exe localhost 35432
+docker exec -it vimalnp7 sh
+docker pull ubuntu
+docker run --name ub_test -it -d ubuntu
+docker exec -it ub_test /bin/bash
+docker exec -it vimalnp7 sh
+node app
+az login
+az aks create --resource-group RG-CitizenSurvey --name citizenSurveyCluster \
+az aks create --resource-group RG-CitizenSurvey --name citizenSurveyCluster 
+az ad sp create-for-rbac --name myAKSClusterServicePrincipal
+ az \ 
+az aks create \ 
+az aks create --resource-group RG-CitizenSurvey --name cs-cluster-2 --enable-addons monitoring --kubernetes-version 1.22 --generate-ssh-keys --service-principal 33957773-0531-4766-a1d0-05d905f75551 --client-secret LAR8Q~WVGB5OUagHTL3751mS47zr9PSMRM0afceL --node-count 3 --vm-set-type VirtualMachineScaleSets --load-balancer-sku standard --enable-cluster-autoscaler --min-count 1 --max-count 3
+node app
+docker build -t vimalnp/workers-cs:v1 .
+docker images
+docker build -t vimalnp/workers-cs:v2 .
+az acr list --resource-group RG-CitizenSurvey --query "[].{acrLoginServer:loginServer}" --output table
+docker images
+docker tag vimalnp/workers-cs:v2 npcsacr.azurecr.io/workers-cs:v2
+docker images
+docker push npcsacr.azurecr.io/workers-cs:v2
+az acr login --name npcsacr
+docker push npcsacr.azurecr.io/workers-cs:v2
+node app
+docker ls
+docker images
+docker build -t vimalnp/worker-cs:v3 .
+az acr login --name npcsacr
+az acr list --resource-group RG-CitizenSurvey --query "[].{acrLoginServer:loginServer}" --output table
+docker images
+docker tag vimalnp/worker-cs:v3 npcsacr.azurecr.io/worker-cs:v3
+docker images
+docker push npcsacr.azurecr.io/worker-cs:v3
+kubectl get pods
+az login
+az aks get-credentials --name cs1-worker-aks --resource-group RG-CitizenSurvey
+kubectl get pods
+kubectl get deployment
+kubectl get namespaces
+az aks get-credentials --name cs1-worker-aks --resource-group RG-CitizenSurvey --namespace default-1654174228740
+kubectl get deployment --namespace default-1654174228740
+kubectl get pods --namespace default-1654174228740
+kubectl scale --replicas=4 deployment/workers-cs
+kubectl scale --replicas=4 --namespace=default-1654174228740 deployment/workers-cs
+kubectl set image --namespace=default-1654174228740 deployment workers-cs workers-cs=npcsacr.azurecr.io/worker-cs:v3
+node app
+git branch
+git status
+npm run start
+npx directus start
+git status
+npx directus start
+git status
+git add extensions/endpoints/document-reports/UserReportController.js
+git status
+git add extensions/hooks/cron/index.js
+git commit -m "Finishing 1"
+git switch development
+npx directus start
+git branch
+git switch dashboard_report_updated_sheet
+npx directus start
+npm run dev
+npx directus start
+git status
+git restore .
+git status
+git restore
+git restore .
+npx directus start
+y
+npx directus start
+git branch
+git status
+git add extensions/endpoints/document-reports/UserReportController.js
+git commit -m "Finishing Report Except Few Changes"
+git push origin dashboard_report_updated_sheet
+npm i dateformat
+npm uninstall dateformat
+npm i dateformat@4.6.3
+node app
+npm i chalk
+npm uninstall chalk
+npm i chalk@4.1.2
+node app
+git init 
+git branch
+git branch master
+git add .
+git status
+git add .
+git status
+git commit -m "Finished Product One"
+git branch
+git branch main
+git switch main
+git branch
+node app
+git status
+git add .
+git commit -m "Improved one"
+git branch dev
+git switch dev
+git merge main
+git switch main
+node app
+git status
+git commit -m "DEV IMAGE"
+git add .
+git commit -m "DEV IMAGE"
+docker images
+node app
+docker images
+clera
+clear
+docker build -t vimalnp/worker-cs:v4
+docker build -t vimalnp/worker-cs:v4 .
+docker images
+az acr list --resource-group RG-CitizenSurvey --query "[].{acrLoginServer:loginServer}" --output table
+az login
+docker tag vimalnp/worker-cs:v4 npcsacr.azurecr.io/worker-cs:v4
+docker images
+docker push npcsacr.azurecr.io/worker-cs:v4
+az acr login --name npcsacr
+docker push npcsacr.azurecr.io/worker-cs:v4
+az aks get-credentials --name cs1-worker-aks --resource-group RG-CitizenSurvey
+kubectl get pods
+kubectl get pods --namespace default-1654174228740
+kubectl set image deployment workers-cs workers-cs=npcsacr.azurecr.io/worker-cs:v4
+kubectl set image --namespace default-1654174228740 deployment workers-cs workers-cs=npcsacr.azurecr.io/worker-cs:v4
+node app
+node app
+node app
+npm install --save luxon
+node app
+npm install --save luxon
+node app
+npm install --save luxon
+npm uninstall luxon
+npm uninstall dateformat
+node app
+clear
+docker build -t vimalnp/worker-cs:v5
+git satus
+docker build -t vimalnp/worker-cs:v5 .
+git status
+docker images

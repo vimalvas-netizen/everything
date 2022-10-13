@@ -1,0 +1,70 @@
+
+// CREATING SSC AND NSC DCR FOR TWO TEMPLATES...
+
+SELECT * FROM public.ncf_question_master
+WHERE template_id = 3
+ORDER BY id ASC;
+
+SELECT * FROM public.ncf_question_master
+WHERE template_id = 4
+ORDER BY id ASC;
+
+// --------------------------------------------------
+
+// For SSC - TE
+INSERT INTO public.ncf_question_master(sequence_number, title, guideline, level, sort, min_word, max_word, template_id, type, answer_type, parent_id, role_area_id, status, order,question_type, title_hn,guideline_hn, display_in_report, ans_inp_type)
+
+SELECT QM.sequence_number, QM.title, QM.guideline, QM.level, QM.sort, QM.min_word, QM.max_word, 40 as template_id, QM.type, QM.answer_type, QM.parent_id, QM.role_area_id, QM.status, QM.order,question_type, QM.title_hn,guideline_hn, QM.display_in_report, QM.ans_inp_type
+FROM public.ncf_question_master as QM
+WHERE QM.template_id = 3
+ORDER BY id ASC;
+
+// For SSC - AE
+
+INSERT INTO public.ncf_question_master(sequence_number, title, guideline, level, sort, min_word, max_word, template_id, type, answer_type, parent_id, role_area_id, status, order,question_type, title_hn,guideline_hn, display_in_report, ans_inp_type)
+
+SELECT QM.sequence_number, QM.title, QM.guideline, QM.level, QM.sort, QM.min_word, QM.max_word, 41 as template_id, QM.type, QM.answer_type, QM.parent_id, QM.role_area_id, QM.status, QM.order,question_type, QM.title_hn,guideline_hn, QM.display_in_report, QM.ans_inp_type
+FROM public.ncf_question_master as QM
+WHERE QM.template_id = 4
+ORDER BY id ASC;
+
+// ---------------------------------------------------
+
+// For NSC - TE
+
+INSERT INTO public.ncf_question_master(sequence_number, title, guideline, level, sort, min_word, max_word, template_id, type, answer_type, parent_id, role_area_id, status, order,question_type, title_hn,guideline_hn, display_in_report, ans_inp_type)
+
+SELECT QM.sequence_number, QM.title, QM.guideline, QM.level, QM.sort, QM.min_word, QM.max_word, 43 as template_id, QM.type, QM.answer_type, QM.parent_id, QM.role_area_id, QM.status, QM.order,question_type, QM.title_hn,guideline_hn, QM.display_in_report, QM.ans_inp_type
+FROM public.ncf_question_master as QM
+WHERE QM.template_id = 3
+ORDER BY id ASC;
+
+// For NSC - AE
+
+INSERT INTO public.ncf_question_master(sequence_number, title, guideline, level, sort, min_word, max_word, template_id, type, answer_type, parent_id, role_area_id, status, order,question_type, title_hn,guideline_hn, display_in_report, ans_inp_type)
+
+SELECT QM.sequence_number, QM.title, QM.guideline, QM.level, QM.sort, QM.min_word, QM.max_word, 44 as template_id, QM.type, QM.answer_type, QM.parent_id, QM.role_area_id, QM.status, QM.order,question_type, QM.title_hn,guideline_hn, QM.display_in_report, QM.ans_inp_type
+FROM public.ncf_question_master as QM
+WHERE QM.template_id = 4
+ORDER BY id ASC;
+
+
+// 
+
+SELECT id, parent_id FROM public.ncf_question_master
+WHERE template_id = 40
+ORDER BY id ASC;
+
+SELECT id, parent_id FROM public.ncf_question_master
+WHERE template_id = 41
+ORDER BY id ASC;
+
+SELECT id, parent_id FROM public.ncf_question_master
+WHERE template_id = 43
+ORDER BY id ASC;
+
+SELECT id, parent_id FROM public.ncf_question_master
+WHERE template_id = 44
+ORDER BY id ASC;
+
+

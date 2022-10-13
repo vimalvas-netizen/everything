@@ -1,0 +1,4 @@
+
+
+To Get the path of file 
+>> (Get-PSReadlineOption).HistorySavePath

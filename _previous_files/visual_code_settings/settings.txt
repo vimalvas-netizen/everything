@@ -1,0 +1,23 @@
+{
+  "editor.fontFamily": "'Source Code Pro', 'Fira Code', 'SF Mono Medium', 'Consolas', 'Courier New', monospace",
+  "editor.fontWeight": "500",
+  // "editor.fontLigatures": true,
+  "editor.fontSize": 13,
+  "editor.formatOnSave": true,
+  "workbench.iconTheme": "vscode-great-icons",
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.cursorSmoothCaretAnimation": true,
+  "editor.cursorStyle": "block",
+  "editor.cursorBlinking": "expand",
+  "todohighlight.keywords": [
+    {
+      "text": "@vimal",
+      "backgroundColor": "#f6fff0",
+      "isWholeLine": true,
+      "overviewRulerColor": "pink"
+    }
+  ],
+  "prettier.printWidth": 160,
+  "kite.showWelcomeNotificationOnStartup": false,
+  "workbench.sideBar.location": "right"
+}

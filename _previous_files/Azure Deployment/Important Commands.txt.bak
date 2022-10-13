@@ -1,0 +1,33 @@
+
+
+
+
+
+// First steps : 
+az login
+
+
+
+
+
+
+// ACR - Commands
+az acr login --name npcsacr
+az acr list --resource-group RG-CitizenSurvey --query "[].{acrLoginServer:loginServer}" --output table
+docker tag vimalnp/worker-cs:v5 npcsacr.azurecr.io/worker-cs:v5
+docker images
+docker push npcsacr.azurecr.io/worker-cs:v5
+
+
+// AKS - Commands 
+kubectl scale --replicas=4 deployment/workers-cs
+kubectl get deployment --namespace default-1654174228740
+kubectl set image --namespace default-1654174228740 deployment workers-cs workers-cs=npcsacr.azurecr.io/worker-cs:v5
+kubectl logs --namespace default-1654174228740 workers-cs
+kubectl logs --namespace default-1654174228740 workers-cs-86c5ddc5c6-f7zql
+kubectl logs --follow --namespace default-1654174228740 workers-cs-86c5ddc5c6-f7zql
+ kubectl get pods --namespace default-1654174228740
+kubectl logs --follow --namespace default-1654174228740 workers-cs-86c5ddc5c6-fqmdp
+kubectl logs --follow --namespace default-1654174228740 workers-cs-86c5ddc5c6-smlr9
+kubectl logs --follow --namespace default-1654174228740 workers-cs-86c5ddc5c6-wgblx
+Get-History

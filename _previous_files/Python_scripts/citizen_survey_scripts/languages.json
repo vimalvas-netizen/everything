@@ -1,0 +1,117 @@
+[
+  {
+    "id": 1,
+    "language": "Assamese",
+    "langCode": "asm"
+  },
+  {
+    "id": 3,
+    "language": "Bodo",
+    "langCode": "bod"
+  },
+  {
+    "id": 4,
+    "language": "Dogri",
+    "langCode": "doi"
+  },
+  {
+    "id": 5,
+    "language": "English",
+    "langCode": "en"
+  },
+  {
+    "id": 6,
+    "language": "Gujarati",
+    "langCode": "guj"
+  },
+  {
+    "id": 7,
+    "language": "Hindi",
+    "langCode": "hin"
+  },
+  {
+    "id": 8,
+    "language": "Kannada",
+    "langCode": "kan"
+  },
+  {
+    "id": 9,
+    "language": "Kashmiri",
+    "langCode": "kas"
+  },
+  {
+    "id": 12,
+    "language": "Malayalam",
+    "langCode": "mal"
+  },
+  {
+    "id": 13,
+    "language": "Manipuri",
+    "langCode": "mni"
+  },
+  {
+    "id": 14,
+    "language": "Marathi",
+    "langCode": "mar"
+  },
+  {
+    "id": 17,
+    "language": "Punjabi",
+    "langCode": "pan"
+  },
+  {
+    "id": 22,
+    "language": "Telugu",
+    "langCode": "tel"
+  },
+  {
+    "id": 23,
+    "language": "Urdu",
+    "langCode": "urd"
+  },
+  {
+    "id": 2,
+    "language": "Bengali",
+    "langCode": "ben"
+  },
+  {
+    "id": 10,
+    "language": "Konkani",
+    "langCode": "kok"
+  },
+  {
+    "id": 15,
+    "language": "Nepali",
+    "langCode": "nep"
+  },
+  {
+    "id": 16,
+    "language": "Odia",
+    "langCode": "ori"
+  },
+  {
+    "id": 18,
+    "language": "Sanskrit",
+    "langCode": "san"
+  },
+  {
+    "id": 20,
+    "language": "Sindhi",
+    "langCode": "snd"
+  },
+  {
+    "id": 21,
+    "language": "Tamil",
+    "langCode": "tam"
+  },
+  {
+    "id": 11,
+    "language": "Maithili",
+    "langCode": "mai"
+  },
+  {
+    "id": 19,
+    "language": "Santali",
+    "langCode": "sat"
+  }
+]
